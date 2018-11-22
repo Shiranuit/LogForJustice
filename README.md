@@ -1,5 +1,5 @@
 # LogForJustice
-**A Minecraft Mod for managing server**
+**A Minecraft Mod for managing  Minecraft Servers**
 
 ## Logs
 - Block Placed, Breaked, Interacted, Item Used
